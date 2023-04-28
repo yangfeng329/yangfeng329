@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yangfeng329
-- 👀 I’m interested in front-end engineering
-- 🌱 I’m currently learning Master of Science in Computer Science
+- 👋 Hi, I’m Yang!
+- 🌱 I’m currently working as a Digital Engineer @Paypal 
 - 💞️ I’m looking to collaborate on any Graphs, Algorithms and Application projects
 - 📫 How to reach me: fbyfeng@gmail.com
 

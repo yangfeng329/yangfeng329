@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yang!
-- 🌱 I’m currently working as a Digital Engineer @Paypal 
+- 🌱 I’m currently working as a Digital Engineer @PayPal 
 - 💞️ I’m looking to collaborate on any Graphs, Algorithms and Application projects
 - 📫 How to reach me: fbyfeng@gmail.com
 
